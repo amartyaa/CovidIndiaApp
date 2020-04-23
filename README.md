@@ -2,6 +2,8 @@
 
 Flutter App to keep track on statewise data of CoViD-19 patients.
 
+![UnderConstruction](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
 <img src="https://raw.githubusercontent.com/amartyaa/CovidIndiaApp/master/assets/images/collage.png" >
 
 ## UI Credits
