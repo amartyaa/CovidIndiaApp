@@ -1,7 +1,7 @@
 # Covid 19 App
 
 
-<img src="https://raw.githubusercontent.com/amartyaa/CovidIndiaApp/master/assets/images/1.png" height="500" width="200">
+<img src="https://raw.githubusercontent.com/amartyaa/CovidIndiaApp/master/assets/images/collage.png" >
 <img src="https://raw.githubusercontent.com/amartyaa/CovidIndiaApp/master/assets/images/2.png" height="50" width="20">
 <img src="https://raw.githubusercontent.com/amartyaa/CovidIndiaApp/master/assets/images/3.png" height="100" width="50">
 
